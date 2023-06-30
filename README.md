@@ -1,16 +1,7 @@
 # map_ar
 
-A new Flutter project.
+This app showcases various map features, including live location tracking with a direction indicator, as well as displaying nearby places such as hospitals based on the user's current location within a user-defined radius. These features enhance the user experience by providing real-time navigation and easy access to important points of interest in the vicinity.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/devcr7/Directions-with-Nearby-Places-Detection/assets/61392760/b65e340e-ff64-409e-8f07-b01d70bc81c4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
